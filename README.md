@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ezequiel Bellino</h1>
-<h3 align="center">A passionate full stack developer from Argentina</h3>
+<h3 align="center">Backend Trainee with a full-stack mindset from Argentina</h3>
+
+<p align="center">
+  ¡Hola! Soy <strong>Zeqe Bellino — Backend Trainee con enfoque full-stack</strong>. Tras graduarme del bootcamp de 4Geeks he construido proyectos propios
+  (e-commerce, sistema de inventario, dashboard IoT) usando <em>Python + Flask/FastAPI/Django, React, PostgreSQL y Tailwind</em>. Disfruto convertir ideas en APIs limpias
+  y UIs dinámicas, mientras aprendo buenas prácticas de testing, CI/CD y arquitectura. Busco mi primera experiencia profesional remota para crecer,
+  aportar frescura y seguir con mi filosofía de “aprender haciendo”.
+</p>
 
 - 🔭 I’m currently working on [FreeStyle](https://github.com/ezebellino/FreeStyleSport)
 
