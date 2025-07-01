@@ -9,7 +9,7 @@
   aportar frescura y seguir con mi filosofía de “aprender haciendo”.
 </p>
 
-- 🔭 I’m currently working on [FreeStyle](https://github.com/ezebellino/FreeStyleSport)
+- 🔭 I’m currently working on [Eisenhower APP](https://github.com/ezebellino/eisenhower-app)
 
 - 🌱 I’m currently learning **Django Framework**
 
